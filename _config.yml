@@ -12,17 +12,11 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Sura Alhanouti / Site Title"
 title_separator          : "-"
 name                     : &name "Sura Alhanouti"
-description              : &description "Hi, I am Sura Alhanouti. I received my Ph.D. in Integrated Systems Engineering from The Ohio State University, 
-where I was advised by Dr. Parinaz Naghizadeh and Dr. Guzin Bayraksan. I also earned my M.S. degree in Integrated Systems Engineering from The Ohio State University
-and my B.S. degree in Industrial Engineering from Jordan University of Science and Technology.
-
-My research lies at the intersection of data analytics, algorithmic decision-making, robust optimization, machine learning, strategic classification, 
-fairness in AI, and game theory. I am interested in developing data-driven methods that enable robust, reliable, and equitable decision-making under uncertainty.
-"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Ph.D. in Integrated Systems Engineering from The Ohio State University"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://github.com/SuraAlhanouti/SuraAlhanouti26.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "SuraAlhanouti/SuraAlhanouti26.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -32,9 +26,9 @@ author:
   avatar           : "IMG_2189.png"
   name             : "Sura Alhanouti"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. in Integrated Systems Engineering from The Ohio State University."
+  location         : "Columbus, Ohio, USA."
+  employer         : #
   uri              : # URL
   email            : "alhanouti.1@osu.edu, szalhanoty14@eng.just.edu.jo" 
 
@@ -44,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=AaTeJmwAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
