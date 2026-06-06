@@ -5,7 +5,7 @@ collection: publications
 category: conferences
 permalink: /publication/cdc-2024-strategic-classification
 date: 2024-12-01
-venue: "IEEE Conference on Decision and Control (CDC)"
+venue: "2024 IEEE 63rd Conference on Decision and Control (CDC)"
 citation: "Alhanouti, S., & Naghizadeh, P. (2024). Could Anticipating Gaming Incentivize Improvement in (Fair) Strategic Classification? IEEE CDC 2024."
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -22,5 +22,5 @@ As machine learning algorithms increasingly influence crucial decisions in areas
 **Links**
 
 * PDF: https://ieeexplore.ieee.org/abstract/document/10886604
-* DOI
+* DOI: 10.1109/CDC56724.2024.10886604
 * Slides
