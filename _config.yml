@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Sura Alhanouti / Site Title"
+title                    : "Sura Alhanouti"
 title_separator          : "-"
 name                     : &name "Sura Alhanouti"
 description              : &description "Ph.D. in Integrated Systems Engineering from The Ohio State University"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://github.com/SuraAlhanouti/SuraAlhanouti26.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://suraalhanouti26.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SuraAlhanouti/SuraAlhanouti26.github.io"
